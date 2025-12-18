@@ -88,7 +88,3 @@ Screenshots of TensorBoard outputs are included in the `images/` directory.
 - Weekend and seasonal effects significantly influence both price and booking likelihood.
 - XGBoost models perform strongly with interpretable feature importance.
 - Neural networks show stable learning behavior with limited overfitting, as observed through TensorBoard diagnostics.
-
-
-## Repository Structure
-
